@@ -1,0 +1,13 @@
+root = true
+
+[*]
+end_of_line = crlf
+insert_final_newline = true
+
+[*.sbc]
+indent_size = 4
+indent_style = tab
+
+[README]
+indent_size = 4
+indent_style = space
